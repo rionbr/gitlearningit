@@ -16,6 +16,9 @@ class BasicComputation(object):
         self.value = 0  # the variable state of the class
         self.counter = 0  # internal counter of how many times this class has been called.
 
+    def reset_counter(self):
+        self.counter = 0
+
     def sum_two_variables(self, a, b):
         """ This function sums two variables
 
