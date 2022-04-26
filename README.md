@@ -8,5 +8,6 @@ Feel free to submit pull requests.
 ## Authors
 
 Repository maintained by researchers at Binghamton University.
-- Rion Brattig Correia 
+- Rion Brattig Correia
+- Xilin Zhang
 - `add your name`
