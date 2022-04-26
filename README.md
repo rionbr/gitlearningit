@@ -10,4 +10,5 @@ Feel free to submit pull requests.
 Repository maintained by researchers at Binghamton University.
 - Rion Brattig Correia 
 - Ziqi Guo(zguo29@binghamton.edu)
+- Yiming Che(yche1@binghamton.edu)
 - `add your name`
