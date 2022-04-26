@@ -2,7 +2,7 @@ import sys
 
 if len(sys.argv) != 3:
 	print("Execute files as:")
-	print("python {} par1 par2".format(sys.argv[0]))
+	print("Python {} ParameterA Parameter2".format(sys.argv[0]))
 	sys.exit()
 
 print("Both parameters found")
