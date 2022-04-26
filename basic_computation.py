@@ -57,5 +57,7 @@ if __name__ == '__main__':
 
     print("fist sum:", BC.sum_two_variables(a, b))
     print("counter:", BC.counter)
+    print("first multiplication:", BC.multiply_two_variables(a, b))
+    print("counter:", BC.counter)
     print("second sum:", BC.sum_two_variables(a, b))
     print("counter:", BC.counter)
