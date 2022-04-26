@@ -13,6 +13,3 @@ Repository maintained by researchers at Binghamton University.
 - Ziqi Guo(zguo29@binghamton.edu)
 - Yiming Che(yche1@binghamton.edu)
 - `add your name`
-=======
-- `add your name`
->>>>>>> 56c396e0669bde4f8275a145bec25161e67fab56
