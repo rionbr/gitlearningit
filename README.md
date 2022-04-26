@@ -1,11 +1,12 @@
-# gitlearningit
+# GitLearninGit : a repository to learning git
 
-This is a collective effort at learning git commands. A group of phd students at Binghamton University.
+This is a collective effort at learning git commands.
 
 Feel free to submit pull requests.
 
-Edit by Xuan
 
-***
+## Authors
 
-Edit by Xilin
+Repository maintained by researchers at Binghamton University.
+- Rion Brattig Correia 
+- `add your name`
