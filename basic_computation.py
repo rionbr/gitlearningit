@@ -49,6 +49,8 @@ class BasicComputation(object):
     def __increase_counter(self):
         self.counter += 1
 
+    def __decrease_counter(self):
+        self.counter -= 1
 
 if __name__ == '__main__':
     # Debug
